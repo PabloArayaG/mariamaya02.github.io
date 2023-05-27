@@ -5,8 +5,6 @@
 
 # mariamaya02.github.io
 
-<hr>
-
 <h2>Trabajo colaborativo</h2>
 <p>Fork realizados a repositorios de mis compañeros:</p>
 <ol>
