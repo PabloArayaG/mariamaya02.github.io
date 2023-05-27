@@ -1,9 +1,9 @@
 <h1>Introducción al desarrollo web:</h1>
 <p>Prueba Final en Academia Desafío Latam: Trabajo colaborativo y GitHub pages</p>
-<h2>Prueba - DESARROLLO DEL PORTAFOLIO</h2>
+<h3>Prueba - DESARROLLO DEL PORTAFOLIO</h3>
 <p> La pueden visualizar aquí:</p>
 
-# mariamaya02.github.io
+<a href="https://mariamaya02.github.io/" target=_blank> Mi Curriculum </a>
 
 <h2>Trabajo colaborativo</h2>
 <p>Fork realizados a repositorios de mis compañeros:</p>
