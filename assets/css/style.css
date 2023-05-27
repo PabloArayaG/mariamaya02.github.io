@@ -40,8 +40,8 @@ footer{
 
 main h2:hover, section h1:hover{
   text-decoration-line: underline;
-  color: rgb(124, 89, 48);
+  color: rgb(16, 36, 91);
 }
 .hover:hover{
-  color: rgb(124, 89, 48);
+  color: rgb(177, 81, 246);
 }
