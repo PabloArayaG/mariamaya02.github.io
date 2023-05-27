@@ -8,6 +8,7 @@
 <h2>Trabajo colaborativo</h2>
 <p>Fork realizados a repositorios de mis compañeros:</p>
 <ol>
-  <li>1</li>
-  <li>1</li>
+  <li>https://github.com/mariamaya02/Curriculum</li>
+  <li>https://github.com/mariamaya02/FR4NK080.github.io</li>
+  <li>https://github.com/mariamaya02/Axioon.github.io</li>
 </ol>
