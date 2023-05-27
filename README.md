@@ -3,7 +3,7 @@
 <h3>Prueba - DESARROLLO DEL PORTAFOLIO</h3>
 <p> La pueden visualizar aquí:</p>
 
-<a href="https://mariamaya02.github.io/" target="_blank"> Mi Curriculum </a>
+<a href="https://mariamaya02.github.io/" Target="_blank"> Mi Curriculum </a>
 
 <h2>Trabajo colaborativo</h2>
 <p>Fork realizados a repositorios de mis compañeros:</p>
