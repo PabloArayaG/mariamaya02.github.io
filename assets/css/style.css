@@ -37,7 +37,7 @@ footer{
   background-image: url(../img/main-bg.jpg);
 }
 
-main h2:hover, section h1:hover{
+main h2:hover, section h1:hover, section h2:hover{
   text-decoration-line: underline;
   color: rgb(124, 89, 48);
 }
